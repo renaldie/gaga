@@ -3,3 +3,4 @@ polars
 time
 datetime
 dateutil
+https://medium.com/@mattplantz/using-streamlits-community-cloud-for-deployment-2c0659b1f07c
